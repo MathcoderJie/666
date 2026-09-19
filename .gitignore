@@ -19,3 +19,6 @@ build/
 Thumbs.db
 .vscode/
 .idea/
+
+# WorkBuddy 本地数据
+.workbuddy/
