@@ -1,0 +1,21 @@
+# 依赖目录
+node_modules/
+venv/
+__pycache__/
+
+# 构建产物
+dist/
+build/
+*.o
+*.exe
+
+# 环境与密钥（切勿提交）
+.env
+*.pem
+*.key
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
